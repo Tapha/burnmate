@@ -136,6 +136,13 @@ text-align: left;
 color: #852;
 }
 
+#footer {
+position: relative;
+right: 300px;
+top: 800px;
+margin-top: 3em;
+color: #888;
+}
 /* general styles */
 body {
   text-rendering: optimizeLegibility;
