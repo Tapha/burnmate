@@ -35,7 +35,7 @@
        <div style="width:250px;padding-left:10px;padding-top:10px;padding-bottom:5px;background:#fff;border:2px solid fff">
        <p style="font-size:1.6em;font-weight:normal;text-decoration:none">
        <span style="color:#057">&#8594;</span> <a style="text-decoration:underline;color:#057" href="/signup/">sign up now for $9.99</a></p>
-	   (you may cancel for upto 3 days after signing up)
+	   (you may cancel for upto 3 days after signing up).
 </div>
 
 <div style="width:350px;margin-right:30px;margin-top:50px;font-size:1em">
